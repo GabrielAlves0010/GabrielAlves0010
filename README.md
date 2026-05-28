@@ -23,9 +23,8 @@ Construo **automação inteligente para empresas e sistemas** — integrando IA,
 
 Se o seu negócio ainda depende de processos repetitivos, planilhas manuais ou ferramentas desconectadas, eu construo o sistema que resolve isso. Desde pipelines de dados e agentes autônomos com IA até modelos de Machine Learning aplicados ao seu contexto.
 
-Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial. Faço parte da **[X-Motion](https://x-motion-site.vercel.app)** — empresa de IA e marketing que combina automação inteligente e estratégia de dados para escalar negócios.
+Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial e autor da newsletter **[Epoch IA — Crônicas da Semana](https://www.linkedin.com/newsletters/epoch-ia-%E2%80%94-cronicas-da-semana-7455658728856416256/)** no LinkedIn. Faço parte da **[X-Motion](https://x-motion-site.vercel.app)** — empresa de IA e marketing que combina automação inteligente e estratégia de dados para escalar negócios.
 
-Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)**.
 
 > Automatizo o que trava o seu crescimento.
 
