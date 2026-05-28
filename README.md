@@ -25,6 +25,8 @@ Se o seu negócio ainda depende de processos repetitivos, planilhas manuais ou f
 
 Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial. Faço parte da **[X-Motion](https://x-motion-site.vercel.app)** — empresa de IA e marketing que combina automação inteligente e estratégia de dados para escalar negócios.
 
+Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)**.
+
 > Automatizo o que trava o seu crescimento.
 
 ---
