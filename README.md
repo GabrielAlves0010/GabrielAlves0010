@@ -23,7 +23,7 @@ Construo **automação inteligente para empresas e sistemas** — integrando IA,
 
 Se o seu negócio ainda depende de processos repetitivos, planilhas manuais ou ferramentas desconectadas, eu construo o sistema que resolve isso. Desde pipelines de dados e agentes autônomos com IA até modelos de Machine Learning aplicados ao seu contexto.
 
-Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial. Arquiteto do **X-Motion Framework**, plataforma de automação para agências de marketing.
+Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial. Co-fundador da **[X-Motion](https://x-motion-site.vercel.app)** — empresa de IA e marketing que combina automação inteligente e estratégia de dados para escalar negócios.
 
 > Automatizo o que trava o seu crescimento.
 
