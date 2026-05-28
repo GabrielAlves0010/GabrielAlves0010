@@ -2,7 +2,7 @@
 
 # Gabriel Alves
 
-**Builder de Automação com IA · Desenvolvedor de Interfaces Premium**
+**Engenheiro de Automação com IA · Machine Learning · Interfaces Premium**
 
 *Sistemas que trabalham enquanto você dorme.*
 
