@@ -6,9 +6,12 @@
 
 *Sistemas que trabalham enquanto você dorme.*
 
-[![Instagram](https://img.shields.io/badge/@epoch__ia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/epoch_ia)
-[![Email](https://img.shields.io/badge/joaorovesjp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaorovesjp@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=flat-square&color=FFB800&label=visitas)](https://github.com/GabrielAlves0010)
+<br>
+
+[![Instagram](https://img.shields.io/badge/-__.gabriel.alves-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.gabriel.alves)
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)
+[![Email](https://img.shields.io/badge/-gabrielcomoliveira802@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcomoliveira802@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=for-the-badge&color=FFB800&label=VISITAS)](https://github.com/GabrielAlves0010)
 
 </div>
 
@@ -24,77 +27,44 @@ Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — página de notí
 
 ---
 
-## O que construo
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Automação com n8n</strong><br><br>
-      Agentes SDR via WhatsApp<br>
-      Pipelines de dados<br>
-      Sistemas de follow-up<br>
-      Integração entre APIs<br>
-      Webhooks e ETL
-    </td>
-    <td align="center" width="33%">
-      <strong>Agentes de IA</strong><br><br>
-      Agentes com memória Redis<br>
-      RAG e base de conhecimento<br>
-      Multi-agentes AIOS<br>
-      Prompt engineering avançado<br>
-      Integração OpenAI · Anthropic
-    </td>
-    <td align="center" width="33%">
-      <strong>Interfaces Premium</strong><br><br>
-      Sites cinematográficos<br>
-      Design systems próprios<br>
-      Carrosseis para Instagram<br>
-      Animações com GSAP<br>
-      HTML · CSS · JavaScript
-    </td>
-  </tr>
-</table>
-
----
-
 ## Stack principal
+
+<br>
 
 **Automação & IA**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br>
+
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logoColor=white)](https://anthropic.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+
+<br>
 
 **Desenvolvimento**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+<br>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)](https://pptr.dev)
+
+<br>
 
 **Infraestrutura & Deploy**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<br>
 
----
-
-## Projetos em destaque
-
-### [NikeDunkSite](https://github.com/GabrielAlves0010/NikeDunkSite)
-Landing page editorial cinematográfica para a Nike Dunk Low Performance Series. Canvas frame scrub, GSAP, Lenis smooth scroll, design system próprio do zero.
-`HTML` `CSS` `JavaScript` `GSAP`
-
-### [Habit-Tracker](https://github.com/GabrielAlves0010/Habit-Tracker)
-Plataforma para marcação e acompanhamento de hábitos diários.
-`JavaScript`
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAlves0010)
 
 ---
 
@@ -102,19 +72,12 @@ Plataforma para marcação e acompanhamento de hábitos diários.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielAlves0010&show_icons=true&theme=dark&bg_color=050505&title_color=FFB800&icon_color=FFB800&text_color=ffffff&border_color=222222&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves0010&layout=compact&theme=dark&bg_color=050505&title_color=FFB800&text_color=ffffff&border_color=222222&langs_count=6" />
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielAlves0010&show_icons=true&theme=dark&bg_color=050505&title_color=FFB800&icon_color=FFB800&text_color=ffffff&border_color=333333&hide_border=false&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves0010&layout=compact&theme=dark&bg_color=050505&title_color=FFB800&text_color=ffffff&border_color=333333&langs_count=6" />
 
 </div>
-
----
-
-## Contato
-
-Tem um projeto de automação, agente de IA ou interface que precisa sair do papel?
-
-[![Email](https://img.shields.io/badge/Enviar%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaorovesjp@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram%20%40epoch__ia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/epoch_ia)
 
 ---
 
