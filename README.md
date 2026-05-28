@@ -19,11 +19,13 @@
 
 ## Sobre mim
 
-Construo **sistemas de automação com IA** que escalam operações de negócio — desde agentes SDR no WhatsApp até pipelines de dados e frameworks de publicação de conteúdo. Paralelamente, desenvolvo **interfaces visuais cinematográficas** com foco em experiência premium.
+Construo **automação inteligente para empresas e sistemas** — integrando IA, Machine Learning e orquestração de dados para eliminar trabalho manual, escalar operações e gerar resultado real.
 
-Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — página de notícias e curadoria de inteligência artificial. Arquiteto do **X-Motion Framework**, plataforma de automação para agências de marketing.
+Se o seu negócio ainda depende de processos repetitivos, planilhas manuais ou ferramentas desconectadas, eu construo o sistema que resolve isso. Desde pipelines de dados e agentes autônomos com IA até modelos de Machine Learning aplicados ao seu contexto.
 
-> Não construo ferramentas. Construo sistemas que geram resultado mensurável.
+Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — curadoria de inteligência artificial. Arquiteto do **X-Motion Framework**, plataforma de automação para agências de marketing.
+
+> Automatizo o que trava o seu crescimento.
 
 ---
 
@@ -43,6 +45,18 @@ Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — página de notí
 [![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+
+<br>
+
+**Machine Learning & Dados**
+
+<br>
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 <br>
 
