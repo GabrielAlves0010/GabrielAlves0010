@@ -9,9 +9,9 @@
 <br>
 
 [![Instagram](https://img.shields.io/badge/-__.gabriel.alves-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.gabriel.alves)
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)
-[![Email](https://img.shields.io/badge/-gabrielcomoliveira802@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcomoliveira802@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=for-the-badge&color=FFB800&label=VISITAS)](https://github.com/GabrielAlves0010)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)
+[![Gmail](https://img.shields.io/badge/-gabrielcomoliveira802-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcomoliveira802@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=for-the-badge&color=FFB800&label=VISITAS)](https://github.com/GabrielAlves0010)
 
 </div>
 
@@ -21,6 +21,8 @@
 
 Construo **sistemas de automação com IA** que escalam operações de negócio — desde agentes SDR no WhatsApp até pipelines de dados e frameworks de publicação de conteúdo. Paralelamente, desenvolvo **interfaces visuais cinematográficas** com foco em experiência premium.
 
+Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — página de notícias e curadoria de inteligência artificial. Arquiteto do **X-Motion Framework**, plataforma de automação para agências de marketing.
+
 > Não construo ferramentas. Construo sistemas que geram resultado mensurável.
 
 ---
@@ -29,25 +31,27 @@ Construo **sistemas de automação com IA** que escalam operações de negócio 
 
 <br>
 
-**Automação & IA**
+<div align="center">
+
+**Automação & Inteligência Artificial**
 
 <br>
 
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logoColor=white)](https://anthropic.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
 <br>
 
-**Desenvolvimento**
+**Desenvolvimento Web**
 
 <br>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -64,6 +68,8 @@ Construo **sistemas de automação com IA** que escalam operações de negócio 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAlves0010)
 
+</div>
+
 ---
 
 ## GitHub Stats
@@ -74,6 +80,10 @@ Construo **sistemas de automação com IA** que escalam operações de negócio 
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielAlves0010&show_icons=true&theme=dark&bg_color=050505&title_color=FFB800&icon_color=FFB800&text_color=ffffff&border_color=333333&hide_border=false&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves0010&layout=compact&theme=dark&bg_color=050505&title_color=FFB800&text_color=ffffff&border_color=333333&langs_count=6" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielAlves0010&theme=dark&background=050505&border=333333&stroke=FFB800&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://github.com/GabrielAlves0010)
 
 </div>
 
