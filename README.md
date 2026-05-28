@@ -2,41 +2,40 @@
 
 # Gabriel Alves
 
-**Engenheiro de Automação com IA · Machine Learning · Interfaces Premium**
+**AI Automation Engineer · Machine Learning · Premium Interfaces**
 
-*Sistemas que trabalham enquanto você dorme.*
+*Systems that work while you sleep.*
 
 <br>
 
 [![Instagram](https://img.shields.io/badge/-__.gabriel.alves-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.gabriel.alves)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-alves-de-oliveira-1a62562b8/)
 [![Gmail](https://img.shields.io/badge/-gabrielcomoliveira802-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcomoliveira802@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=for-the-badge&color=FFB800&label=VISITAS)](https://github.com/GabrielAlves0010)
+[![Views](https://komarev.com/ghpvc/?username=GabrielAlves0010&style=for-the-badge&color=FFB800&label=VIEWS)](https://github.com/GabrielAlves0010)
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Construo **automação inteligente para empresas e sistemas** — integrando IA, Machine Learning e orquestração de dados para eliminar trabalho manual, escalar operações e gerar resultado real.
+I build **intelligent automation for businesses and systems** — integrating AI, Machine Learning and data orchestration to eliminate manual work, scale operations and deliver real results.
 
-Se o seu negócio ainda depende de processos repetitivos, planilhas manuais ou ferramentas desconectadas, eu construo o sistema que resolve isso. Desde pipelines de dados e agentes autônomos com IA até modelos de Machine Learning aplicados ao seu contexto.
+If your business still relies on repetitive processes, manual spreadsheets or disconnected tools, I build the system that fixes that. From data pipelines and autonomous AI agents to Machine Learning models applied to your specific context.
 
-Fundador da **[Epoch IA](https://instagram.com/epoch_ia)** — curadoria semanal de inteligência artificial, publicada no Instagram e na **[newsletter do LinkedIn](https://www.linkedin.com/newsletters/epoch-ia-%E2%80%94-cronicas-da-semana-7455658728856416256/)**. Faço parte da **[X-Motion](https://x-motion-site.vercel.app)** — empresa de IA e marketing que combina automação inteligente e estratégia de dados para escalar negócios.
+Founder of **[Epoch IA](https://instagram.com/epoch_ia)** — weekly AI curation published on Instagram and the **[LinkedIn newsletter](https://www.linkedin.com/newsletters/epoch-ia-%E2%80%94-cronicas-da-semana-7455658728856416256/)**. Part of **[X-Motion](https://x-motion-site.vercel.app)** — an AI and marketing company that combines intelligent automation and data strategy to scale businesses.
 
-
-> Automatizo o que trava o seu crescimento.
+> I don't build tools. I build systems that generate measurable results.
 
 ---
 
-## Stack principal
+## Tech Stack
 
 <br>
 
 <div align="center">
 
-**Automação & Inteligência Artificial**
+**Automation & Artificial Intelligence**
 
 <br>
 
@@ -49,7 +48,7 @@ Fundador da **[Epoch IA](https://instagram.com/epoch_ia)** — curadoria semanal
 
 <br>
 
-**Machine Learning & Dados**
+**Machine Learning & Data**
 
 <br>
 
@@ -61,7 +60,7 @@ Fundador da **[Epoch IA](https://instagram.com/epoch_ia)** — curadoria semanal
 
 <br>
 
-**Desenvolvimento Web**
+**Web Development**
 
 <br>
 
@@ -74,7 +73,7 @@ Fundador da **[Epoch IA](https://instagram.com/epoch_ia)** — curadoria semanal
 
 <br>
 
-**Infraestrutura & Deploy**
+**Infrastructure & Deploy**
 
 <br>
 
@@ -105,5 +104,5 @@ Fundador da **[Epoch IA](https://instagram.com/epoch_ia)** — curadoria semanal
 ---
 
 <div align="center">
-  <sub>Construindo sistemas de resultado. ∞</sub>
+  <sub>Building systems that deliver results. ∞</sub>
 </div>
