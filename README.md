@@ -21,8 +21,6 @@
 
 Construo **sistemas de automação com IA** que escalam operações de negócio — desde agentes SDR no WhatsApp até pipelines de dados e frameworks de publicação de conteúdo. Paralelamente, desenvolvo **interfaces visuais cinematográficas** com foco em experiência premium.
 
-Fundador do **[@epoch_ia](https://instagram.com/epoch_ia)** — página de notícias e curadoria de inteligência artificial. Arquiteto do **X-Motion Framework**, plataforma de automação para agências de marketing.
-
 > Não construo ferramentas. Construo sistemas que geram resultado mensurável.
 
 ---
